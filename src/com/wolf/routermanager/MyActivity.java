@@ -24,7 +24,7 @@ public class MyActivity extends Activity {
             @Override
             public void putData(boolean flag) {
                 System.out.print(flag);
-
+                                        //测试提交
                 System.out.print(AllRouterInfoBean.allActiveWifiUser);
             }
         });
